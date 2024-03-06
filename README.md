@@ -1,8 +1,8 @@
-# Landing Page Template
+# Garden Design Planning Website Template
 
 ## Overview
 
-This is a simple landing page template for a website, designed using HTML and CSS. It includes a header with a logo and navigation menu, a main section with a subscription form and newsletter information, and an image section.
+This is a simple website template for garden design planning, designed using HTML and CSS. It includes a header with a logo and navigation menu, a main section with information about modern gardens and plants for homes, a section for shopping plants, a footer with a discount offer, and contact information.
 
 ## Features
 
@@ -17,26 +17,26 @@ This is a simple landing page template for a website, designed using HTML and CS
     ```
 
 2. **Customize the content:**
-    - Edit the `index.html` file to modify the content of the landing page.
-    - Update the styles in the `index.css` file to customize the look of the landing page.
+    - Edit the `index.html` file to modify the content of the website.
+    - Update the styles in the `style.css` file to customize the look of the website.
 
 3. **Add Images:**
     - Replace the placeholder images in the `images` folder with your own images.
     - Update the image sources in the `index.html` file to point to your new images.
 
-4. **Test the Page:**
-    - Open the `index.html` file in a web browser to preview the landing page.
-    - Test the page's responsiveness by resizing the browser window or using a mobile device emulator.
+4. **Test the Website:**
+    - Open the `index.html` file in a web browser to preview the website.
+    - Test the website's responsiveness by resizing the browser window or using a mobile device emulator.
 
-5. **Deploy the Landing Page:**
+5. **Deploy the Website:**
     - Upload the entire project folder to your web hosting provider using FTP or another method.
     - Ensure that the `index.html` file is in the root directory of your website.
-    - Visit your website's URL in a web browser to see the deployed landing page.
+    - Visit your website's URL in a web browser to see the deployed website.
 
 6. **Customize Further:**
-    - Feel free to further customize the landing page template by adding more sections, changing the layout, or integrating it with backend services for form submission.
+    - Feel free to further customize the website template by adding more sections, changing the layout, or integrating it with backend services for form submission.
 
 ## Credits
 
-- Fonts: [Open Sans](https://fonts.google.com/specimen/Open+Sans), [Poppins](https://fonts.google.com/specimen/Poppins) from Google Fonts.
-- Icons: [SVGRepo](https://www.svgrepo.com/) for arrow and search icons.
+- Fonts: [Libre Bodoni](https://fonts.google.com/specimen/Libre+Bodoni) from Google Fonts.
+- Images: Placeholder images sourced from the project's `images` folder.
