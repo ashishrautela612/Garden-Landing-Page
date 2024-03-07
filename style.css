@@ -57,6 +57,7 @@ img {
   left: 12.7%;
   cursor: pointer;
 }
+
 .navItem {
   font-size: 16px;
   display: inline;
@@ -64,6 +65,22 @@ img {
   border-radius: 28px;
   margin: 0px 9px;
   letter-spacing: 0.2;
+}
+
+.navItem {
+  font-size: 16px;
+  display: inline;
+  padding: 4px 15px;
+  border-radius: 28px;
+  margin: 0px 9px;
+  letter-spacing: 0.2;
+  transition: all 0.5s ease-in-out; /* Added transition property */
+}
+
+.navItem:hover,
+.navItem:focus {
+  background-color: #043e3d;
+  color: #fff;
 }
 
 .navLine {
@@ -229,12 +246,17 @@ img {
   font-size: 20px;
   overflow: hidden;
   cursor: pointer;
+  position: relative;
+  transition: all 0.3s; /* Added transition property */
 }
-
 .plan > p {
   font-size: 22px;
   color: white;
 }
+.plan:hover {
+  background-color: #043e3d;
+}
+
 
 .plant {
   margin-bottom: 6px;
@@ -297,3 +319,9 @@ img {
   bottom: 0;
   width: 224px;
 }
+
+
+
+
+
+
